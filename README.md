@@ -6,7 +6,7 @@
 <a href="#"><img title="Host" src="https://raw.githubusercontent.com/Temuxuser2021/release-download/master/images/banner/trackip.png"></a>
 </p>
 <p align="center">
-<a href="https://github.com/htr-tech"><img title="Author" src="https://img.shields.io/badge/Author-htr--tech-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/htr-tech"><img title="Author" src="https://img.shields.io/badge/Author-Temuxuser2021-red.svg?style=for-the-badge&logo=github"></a>
 <a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
 </p>
 <p align="center">
