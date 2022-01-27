@@ -32,7 +32,7 @@
 apt update ; apt install git curl -y ; git clone git://github.com/Temuxuser2021/track-ip.git ; cd track-ip ; bash trackip
 
 ### <<< If you copy , Then Give me The Credits >>>
-
+###^^^ and  important notice :- this will not be accurate information about location it will show you some info about the ip  check 🙂 and then tell me 
 ## Find Me on :
 [![Github](https://img.shields.io/badge/Github--Temuxuser2021-green?style=for-the-badge&logo=github)](https://github.com/htr-tech)
 [![Instagram](https://img.shields.io/badge/IG-%40noob_hacker_raj-red?style=for-the-badge&logo=instagram)
